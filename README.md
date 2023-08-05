@@ -24,7 +24,7 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 - Proven track record of optimizing processes, reducing costs, and enhancing operational efficiency.
 - Deep expertise in [Key Technologies/Tools] with a focus on [Specific IT Domain].
 
-
+<div align="center">
 ## 🛠️ Technical Proficiencies
 
 - Languages: English, Hindi
@@ -33,6 +33,7 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 - DevOps: Kubernetes , Docker , CICD, Gitlab , Sonar ,
 - Databases: Oracle , mysql , mariadb , cloudSQL , cloud Spanner, MongoDB , AWS RDS.
 
+</div>
 - ...
 
 ## 💼 Work Experience
@@ -59,10 +60,12 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
+
+<div align="center">
 ## 🌐 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | [Twitter](https://twitter.com/yourtwitterhandle) | [Website](https://yourportfolio.com)
-
+</div>
 
 🚀 Some of my projects:
 
