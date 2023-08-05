@@ -1,21 +1,29 @@
-### Hi there 👋
 
 # Hi there! 👋 I'm Sagar Vyas Technology professional from India.
 
-Senior IT Professional | Tech Enthusiast | Problem Solver
+Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
 
+🔥 A seasoned IT leader with 14+ years of experience, specializing in IT across Banking , Telecom , Transportation domain .
+🚀 I thrive on leveraging cutting-edge technologies to drive innovation and strategic growth.
 🔭 I'm currently working on [Current Project or Focus]
 🌱 Constantly learning and adapting to new technologies
-💬 Ask me about [Your Expertise Areas]
-📫 Reach me at [Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
 
-## 👨‍💻 Technology Stack
+## 💼 Key Highlights
 
-- Languages: [Primary Language], [Secondary Language]
+- Led and mentored cross-functional teams of [Team Size] to deliver mission-critical projects on time and within budget.
+- Orchestrated successful [Technology Implementations/Transformations] resulting in [Tangible Outcomes].
+- Proven track record of optimizing processes, reducing costs, and enhancing operational efficiency.
+- Deep expertise in [Key Technologies/Tools] with a focus on [Specific IT Domain].
+
+
+## 🛠️ Technical Proficiencies
+
+- Languages: English, Hindi
 - Frameworks: [Frameworks], [Tools]
-- Cloud: [Cloud Platforms]
-- Databases: [Databases]
-- DevOps: [DevOps Tools]
+- Cloud: Google Cloud (GCP), AWS , OTC (Open Telekom Cloud), Azure
+- DevOps: Kubernetes , Docker , CICD, Gitlab , Sonar ,
+- Databases: Oracle , mysql , mariadb , cloudSQL , cloud Spanner, MongoDB , AWS RDS.
+
 - ...
 
 ## 💼 Work Experience
@@ -47,36 +55,13 @@ Senior IT Professional | Tech Enthusiast | Problem Solver
 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | [Twitter](https://twitter.com/yourtwitterhandle) | [Website](https://yourportfolio.com)
 
 
-
 🚀 Some of my projects:
 
 - [Project 1 Name](https://github.com/yourusername/project1): A brief description of what the project does.
 - [Project 2 Name](https://github.com/yourusername/project2): Another project description goes here.
 - [Project 3 Name](https://github.com/yourusername/project3): You get the idea.
 
-💡 I love [Technology/Concept] and [Another Technology/Concept]
-📫 How to reach me: [Email](mailto:youremail@example.com) | [Twitter](https://twitter.com/yourtwitterhandle)
 
----
-
-## 🛠️ Technologies and Tools
-
-![Tech 1](https://img.shields.io/badge/-Technology1-333?style=flat-square&logo=technology1&logoColor=white)
-![Tech 2](https://img.shields.io/badge/-Technology2-333?style=flat-square&logo=technology2&logoColor=white)
-![Tech 3](https://img.shields.io/badge/-Technology3-333?style=flat-square&logo=technology3&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-
-## 🌐 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1F2937?style=for-the-badge)](https://yourportfolio.com)
-
-
-<!--
 **sagar-skew/sagar-skew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -86,6 +71,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+## 🗣️ Testimonials
+
+- "[Your Name] is an exceptional IT professional who consistently delivers results that exceed expectations." - [Former Colleague/Supervisor]
+- "Their ability to lead technical initiatives and foster collaboration is a true asset to any team." - [Industry Expert]
+
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
