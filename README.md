@@ -31,14 +31,16 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 🌱 Constantly learning and adapting to new technologies
 
 </div>
-
 ---
+
 ## 💼 Key Highlights
 
 - Led and mentored cross-functional teams of [Team Size] to deliver mission-critical projects on time and within budget.
 - Orchestrated successful [Technology Implementations/Transformations] resulting in [Tangible Outcomes].
 - Proven track record of optimizing processes, reducing costs, and enhancing operational efficiency.
 - Deep expertise in [Key Technologies/Tools] with a focus on [Specific IT Domain].
+
+---
 
 <div align="center">
 ## 🛠️ Technical Proficiencies
@@ -50,7 +52,6 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 - Databases: Oracle , mysql , mariadb , cloudSQL , cloud Spanner, MongoDB , AWS RDS.
 
 </div>
-- ...
 ---
 ## 💼 Work Experience
 
@@ -93,4 +94,3 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 - [Project 3 Name](https://github.com/yourusername/project3): You get the idea.
 
 ---
--->
