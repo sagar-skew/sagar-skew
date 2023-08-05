@@ -3,7 +3,7 @@
 
 Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
 
-💼 Professional Summary
+® Professional Summary
 
 🔥 A seasoned IT leader with 14+ years of experience, specializing in IT across Banking , Telecom , Transportation domain
 
