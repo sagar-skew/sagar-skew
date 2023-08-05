@@ -8,41 +8,11 @@
 ---
 
 <!-- Section 3: Connect with Me -->
-<div align="center" style="background-color: #4e73df; padding: 30px;">
+<div align="left" style="background-color: #4e73df; padding: 30px;">
   <h2 style="color: white;">🌐 Connect with Me</h2>
   <p>Email: [Your Email](mailto:youremail@example.com)</p>
   <p>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)</p>
 </div>
-
-
-
-<!-- Section 3: Connect with Me -->
-<div align="center" style="background-color: #4e73df; padding: 30px;">
-  <h2 style="color: white;">🌐 Connect with Me</h2>
-  <p>Email: [Your Email](mailto:youremail@example.com)</p>
-  <p>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)</p>
-</div>
-
-<style>
-  .highlight-text {
-    background-color: yellow;
-    display: inline;
-    padding: 0.1em 0.3em;
-    animation: highlight 2s infinite;
-  }
-  @keyframes highlight {
-    0%, 100% { background-color: yellow; }
-    50% { background-color: transparent; }
-  }
-
-  .moving-text {
-    animation: moveText 3s infinite alternate;
-  }
-  @keyframes moveText {
-    from { transform: translateX(0); }
-    to { transform: translateX(10px); }
-  }
-</style>
 
 
 # About Me
