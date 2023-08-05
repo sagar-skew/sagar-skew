@@ -14,14 +14,6 @@ I am a passionate IT professional with expertise in...
 
 ---
 
-<!-- Colored Box Section 1 -->
-<div style="background-color: #f6c23e; padding: 20px;">
-  <h2 style="color: white;">🚀 Tech Visionary and Innovator 🌟</h2>
-  <p>💡 Transforming businesses with [Your Expertise Areas]</p>
-  <p>🚀 Pioneering cutting-edge solutions for [Industry/Niche]</p>
-  <p>🌐 Passionate about [Innovation/Technology] for global impact</p>
-</div>
-
 # Hi there! 👋 I'm Sagar Vyas Technology professional from India.
 
 Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
@@ -40,6 +32,7 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 
 </div>
 
+---
 ## 💼 Key Highlights
 
 - Led and mentored cross-functional teams of [Team Size] to deliver mission-critical projects on time and within budget.
@@ -58,7 +51,7 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 
 </div>
 - ...
-
+---
 ## 💼 Work Experience
 
 ### [Current/Previous Job Title] at [Company Name] | [Date Range]
@@ -73,28 +66,31 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 - Developed and maintained [Key Systems/Projects]
 - Improved [Processes/Results] by implementing [Improvements]
 
+---
 ## 🚀 Projects
 
 - [Project 1 Name](https://github.com/yourusername/project1): Brief description and key technologies.
 - [Project 2 Name](https://github.com/yourusername/project2): Summary and notable accomplishments.
 - [Project 3 Name](https://github.com/yourusername/project3): Highlights and impact.
 
+---
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
-
+---
 <div align="center">
 ## 🌐 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | [Twitter](https://twitter.com/yourtwitterhandle) | [Website](https://yourportfolio.com)
 </div>
 
+---
 🚀 Some of my projects:
 
 - [Project 1 Name](https://github.com/yourusername/project1): A brief description of what the project does.
 - [Project 2 Name](https://github.com/yourusername/project2): Another project description goes here.
 - [Project 3 Name](https://github.com/yourusername/project3): You get the idea.
 
-
+---
 -->
