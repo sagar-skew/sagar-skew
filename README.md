@@ -1,3 +1,40 @@
+body { background-color: #282a36; color: #f8f8f2; font-family: Arial, sans-serif; margin: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; } .profile-card { background-color: rgba(0, 0, 0, 0.5); border-radius: 10px; padding: 20px; max-width: 600px; width: 80%; text-align: center; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3); } .profile-img { border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px; } .header { background-image: url('professional.jpeg'); background-size: cover; background-position: center; padding: 100px 0; text-align: center; } .animated-text { animation: fadeInUp 2s; } @keyframes fadeInUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+
+![Profile Picture](Professional.jpeg)
+
+Hi, I'm Sagar Vyas
+==================
+
+Experienced Senior IT Professional | Transforming Businesses through Tech Innovation
+
+🚀 Tech Visionary and Innovator 🌟
+----------------------------------
+
+💡 Transforming businesses with \[Your Expertise Areas\]
+
+🚀 Pioneering cutting-edge solutions for \[Industry/Niche\]
+
+🌐 Passionate about \[Innovation/Technology\] for global impact
+
+💼 Key Achievements
+-------------------
+
+Led \[Team Size\]-member teams in delivering \[Impactful Projects\]
+
+Innovated \[Technology Solutions\] for \[Specific Goals\]
+
+Achieved \[Quantifiable Outcomes\] through process optimization
+
+🌐 Connect with Me
+------------------
+
+Email: \[Your Email\](mailto:youremail@example.com)
+
+LinkedIn: \[LinkedIn Profile\](https://www.linkedin.com/in/yourlinkedinprofile)
+
+
+
+#############################
 
 <div align="center">
   <img src="professional.jpeg" width="800" height="400" alt="Header Image">
