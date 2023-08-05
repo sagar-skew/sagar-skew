@@ -14,6 +14,14 @@ I am a passionate IT professional with expertise in...
 
 ---
 
+<!-- Colored Box Section 1 -->
+<div style="background-color: #f6c23e; padding: 20px;">
+  <h2 style="color: white;">🚀 Tech Visionary and Innovator 🌟</h2>
+  <p>💡 Transforming businesses with [Your Expertise Areas]</p>
+  <p>🚀 Pioneering cutting-edge solutions for [Industry/Niche]</p>
+  <p>🌐 Passionate about [Innovation/Technology] for global impact</p>
+</div>
+
 # Hi there! 👋 I'm Sagar Vyas Technology professional from India.
 
 Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
