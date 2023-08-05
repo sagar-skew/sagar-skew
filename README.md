@@ -3,6 +3,8 @@
 
 Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
 
+<div align="center">
+  
 ® Professional Summary
 
 🔥 A seasoned IT leader with 14+ years of experience, specializing in IT across Banking , Telecom , Transportation domain
@@ -12,6 +14,8 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 🔭 I'm currently working on cloud transformation , GCP architect, DevOps lead. Leading cloudification.
 
 🌱 Constantly learning and adapting to new technologies
+
+</div>
 
 ## 💼 Key Highlights
 
