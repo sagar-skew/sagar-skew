@@ -22,6 +22,8 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
   
 ® Professional Summary
 
+</div>
+
 🔥 A seasoned IT leader with 14+ years of experience, specializing in IT across Banking , Telecom , Transportation domain
 
 🚀 I thrive on leveraging cutting-edge technologies to drive innovation and strategic growth
@@ -30,7 +32,8 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 
 🌱 Constantly learning and adapting to new technologies
 
-</div>
+
+
 ---
 
 ## 💼 Key Highlights
