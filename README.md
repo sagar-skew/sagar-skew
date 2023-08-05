@@ -7,6 +7,13 @@
 
 ---
 
+<!-- Section 3: Connect with Me -->
+<div align="center" style="background-color: #4e73df; padding: 30px;">
+  <h2 style="color: white;">🌐 Connect with Me</h2>
+  <p>Email: [Your Email](mailto:youremail@example.com)</p>
+  <p>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)</p>
+</div>
+
 # About Me
 
 I am a passionate IT professional with expertise in...
