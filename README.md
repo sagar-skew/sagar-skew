@@ -1,20 +1,16 @@
-<div style="animation: glowing 3s infinite;">
-  <h2>🚀 Tech Visionary and Innovator 🌟</h2>
-</div>
-
-<style>
-@keyframes glowing {
-  0% { text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); }
-  50% { text-shadow: 0 0 20px rgba(255, 255, 255, 0.8); }
-  100% { text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); }
-}
-</style>
-
-#############################
 
 <div align="center">
   <img src="professional.jpeg" width="800" height="400" alt="Header Image">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem;">Hi, I'm Sagar Vyas</h1>
+  <p style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1.5rem;">Experienced Senior IT Professional</p>
 </div>
+
+---
+
+# About Me
+
+I am a passionate IT professional with expertise in...
+
 
 ---
 
