@@ -18,11 +18,8 @@ I am a passionate IT professional with expertise in...
 
 Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
 
-<div align="center">
   
-® Professional Summary
-
-</div>
+## Professional Summary
 
 🔥 A seasoned IT leader with 14+ years of experience, specializing in IT across Banking , Telecom , Transportation domain
 
@@ -45,7 +42,6 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 
 ---
 
-<div align="center">
 ## 🛠️ Technical Proficiencies
 
 - Languages: English, Hindi
@@ -54,8 +50,8 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 - DevOps: Kubernetes , Docker , CICD, Gitlab , Sonar ,
 - Databases: Oracle , mysql , mariadb , cloudSQL , cloud Spanner, MongoDB , AWS RDS.
 
-</div>
 ---
+
 ## 💼 Work Experience
 
 ### [Current/Previous Job Title] at [Company Name] | [Date Range]
