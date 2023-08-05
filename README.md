@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fcanjoena%2Fcanjoena1704%2Fcanjoena170400020%2F76459461-double-exposure-of-professional-businessman-connected-devices-with-world-digital-technology-internet.jpg&tbnid=bZ1n6RfC0SDNlM&vet=12ahUKEwj_2P7_nMaAAxWxyQIHHQgeAE4QMygVegUIARCeAg..i&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_76459461_double-exposure-of-professional-businessman-connected-devices-with-world-digital-technology-internet.html&docid=zmNhKcS9YjEIxM&w=1300&h=731&q=professional%20IT%20image&ved=2ahUKEwj_2P7_nMaAAxWxyQIHHQgeAE4QMygVegUIARCeAg" width="800" height="400" alt="Header Image">
+  <img src="" width="800" height="400" alt="Header Image">
 </div>
 
 ---
