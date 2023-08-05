@@ -3,9 +3,6 @@
   <img src="professional.jpeg" width="800" height="400" alt="Header Image">
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem;">Hi, I'm Sagar Vyas</h1>
   <p style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1.5rem;">Experienced Senior IT Professional</p>
-  <h2 style="color: white;">🌐 Connect with Me</h2>
-  <p>Email: [Your Email](mailto:youremail@example.com)</p>
-  <p>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)</p>
 </div>
 
 ---
@@ -17,19 +14,14 @@
   <p>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)</p>
 </div>
 
+---
 
 # About Me
 
+Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
 I am a passionate IT professional with expertise in...
-
-
----
-
 # Hi there! 👋 I'm Sagar Vyas Technology professional from India.
 
-Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
-
-  
 ## Professional Summary
 
 🔥 A seasoned IT leader with 14+ years of experience, specializing in IT across Banking , Telecom , Transportation domain
@@ -39,7 +31,6 @@ Experienced Senior IT Professional | Transforming Businesses through Technology 
 🔭 I'm currently working on cloud transformation , GCP architect, DevOps lead. Leading cloudification.
 
 🌱 Constantly learning and adapting to new technologies
-
 
 
 ---
