@@ -15,6 +15,24 @@
 </div>
 
 
+---
+<div align="center">
+  <img src="professional.jpeg" alt="Header Image" width="100%">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); animation: fadeIn 2s;">Hi, I'm [Your Name]</h1>
+  <p style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1.5rem; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); animation: fadeIn 2s;">Experienced Senior IT Professional</p>
+</div>
+
+<!-- ... rest of your content ... -->
+
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
+
+
 # About Me
 
 I am a passionate IT professional with expertise in...
