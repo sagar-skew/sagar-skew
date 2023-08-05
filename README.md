@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="" width="800" height="400" alt="Header Image">
+  <img src="professional.jpeg" width="800" height="400" alt="Header Image">
 </div>
 
 ---
