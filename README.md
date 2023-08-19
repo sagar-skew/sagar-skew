@@ -8,7 +8,7 @@
 ---
 
 <!-- Section 2: Connect with Me -->
-<div align="left" style="background-color: #007BFF; padding: 30px;">
+<div align="left" style="background-color: #28A745; padding: 30px;">
   <h2 style="color: white;">🌐 Connect with Me</h2>
   <p>Email: [Your Email](mailto:sagarvyas147@gmail.com)</p>
   <p>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)</p>
