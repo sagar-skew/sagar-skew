@@ -2,7 +2,7 @@
 <div align="center">
   <img src="AI-professional-image.jpg" width="800" height="400" alt="Header Image">
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem;">Hi, I'm Sagar Vyas</h1>
-  <p style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1.5rem;">Experienced Senior IT Professional</p>
+  <p style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1.5rem;">Passionate and expereince IT Professional</p>
 </div>
 
 ---
@@ -71,9 +71,16 @@ I am a passionate IT professional with expertise in...
 ---
 ## 🚀 Projects
 
-- [Project 1 Name](https://github.com/yourusername/project1): Brief description and key technologies.
-- [Project 2 Name](https://github.com/yourusername/project2): Summary and notable accomplishments.
-- [Project 3 Name](https://github.com/yourusername/project3): Highlights and impact.
+- [Project 1 Application migration](https://github.com/yourusername/project1): Brief description and key technologies.
+- [Project 2 Infrastructure Transformation](https://github.com/yourusername/project2): Summary and notable accomplishments.
+- [Project 3 DAA "Data to AI analytics"](https://github.com/yourusername/project3): Highlights and impact.
+
+Project 1: Project Name
+
+- **Description**: A brief description of the project.
+- **GitHub Repository**: [Link](https://github.com/yourusername/project1)
+- **Live Demo**: [Link](https://yourwebsite.com/project1-demo)
+- ![Project 1 Screenshot](project1-screenshot.png)
 
 ---
 ## 📈 GitHub Stats
@@ -86,7 +93,7 @@ I am a passionate IT professional with expertise in...
 
 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | 
 [Twitter](https://twitter.com/yourtwitterhandle) | 
-[Website](https://yourportfolio.com)
+[Website](https://sagar-vyas-cloudification.github.io/DataCloudAI-Excellence-Portfolio/)
 </div>
 
 ---
