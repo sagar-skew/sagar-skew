@@ -56,7 +56,9 @@ I am a passionate IT professional with expertise in...
 
 ## 💼 Work Experience
 
-### [Current/Previous Job Title] at [Company Name] | [Date Range]
+### [Current/Previous Job Title] at Deutsche Telekom || T-Systems ICT India Pvt. Ltd  | [11-11-2021 to till date]
+
+[T-systems Website](https://www.t-systems.com/in/en) [DT Website](https://www.telekom.com/en/company/companyprofile/company-profile-625808)
 
 - Led a team of [Team Size] in [Achievements or Projects]
 - Implemented [Specific Achievements or Technologies] resulting in [Quantifiable Results]
