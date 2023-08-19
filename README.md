@@ -20,7 +20,6 @@
 
 Experienced Senior IT Professional | Transforming Businesses through Technology | Tech Enthusiast | Problem Solver
 I am a passionate IT professional with expertise in...
-# Hi there! 👋 I'm Sagar Vyas Technology professional from India.
 
 ## Professional Summary
 
@@ -54,28 +53,69 @@ I am a passionate IT professional with expertise in...
 
 ---
 
-## 💼 Work Experience
+## 💼 professional Experience
 
 ### [Current/Previous Job Title] at Deutsche Telekom || T-Systems ICT India Pvt. Ltd  | [11-11-2021 to till date]
 
-[T-systems Website](https://www.t-systems.com/in/en) [DT Website](https://www.telekom.com/en/company/companyprofile/company-profile-625808)
+[T-systems Website](https://www.t-systems.com/in/en) 
+[Deutsche Telekom Website](https://www.telekom.com/en/company/companyprofile/company-profile-625808)
 
+Description:
+Key Responsibility:
+Achivevements:
+Tech Stack:
 - Led a team of [Team Size] in [Achievements or Projects]
 - Implemented [Specific Achievements or Technologies] resulting in [Quantifiable Results]
 - Collaborated with cross-functional teams to [Collaborative Projects]
 
-### [Previous Job Title] at [Company Name] | [Date Range]
+### [Previous Job Title] at Vodafone Intellient solution | [Date Range]
+
+[Vodafone Intellient solution Website](https://www.vodafone.com/careers/professional-career-areas/shared-services)
 
 - Managed [Responsibilities] for [Project or Team]
 - Developed and maintained [Key Systems/Projects]
 - Improved [Processes/Results] by implementing [Improvements]
 
+### [Previous Job Title] at Fujitsu India | [Date Range]
+[Fujitsu India Website](https://www.fujitsu.com/in/)
+
+
+### [Previous Job Title] at MasterCard (ElectraCard Services)  | [Date Range]
+
+MasterCard acquired ECS in 2014 [Offical annocement] (https://timesofindia.indiatimes.com/business/india-business/mastercard-acquires-pune-based-processing-company/articleshow/35335427.cms)
+
+### [Previous Job Title] at Global Infotect  | [Date Range]
+
 ---
 ## 🚀 Projects
 
-- [Project 1 Application migration](https://github.com/yourusername/project1): Brief description and key technologies.
+<details>
+<Project summary style="color: #007BFF;"> Project1
+[Project 1 Application migration](https://github.com/yourusername/project1): Brief description and key technologies.
+     
+   **Description** :
+   **Technologies Used**:
+   **Tech stack** :
+   **Achivevements**:
+  ![Project 1 Screenshot](project1-screenshot.png)
+
+  </details>
+
 - [Project 2 Infrastructure Transformation](https://github.com/yourusername/project2): Summary and notable accomplishments.
+  
+   **Description** :
+   **Technologies Used**:
+   **Tech stack** :
+   **Achivevements**:
+   ![Project 1 Screenshot](project1-screenshot.png)
+
 - [Project 3 DAA "Data to AI analytics"](https://github.com/yourusername/project3): Highlights and impact.
+
+  **Description** :
+  **Technologies Used**:
+  **Tech stack** :
+  **Achivevements**:
+  ![Project 1 Screenshot](project1-screenshot.png)
 
 Project 1: Project Name
 
