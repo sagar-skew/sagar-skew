@@ -1,7 +1,7 @@
 <!-- Section 1: profile image -->
 <div align="center">
   <img src="AI-professional-image.jpg" width="800" height="400" alt="Header Image">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem;">Hi, I'm Sagar Vyas</h1>
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: blue; font-size: 3rem;">Hi, I'm Sagar Vyas</h1>
   <p style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1.5rem;">Passionate and expereince IT Professional</p>
 </div>
 
