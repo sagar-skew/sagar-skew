@@ -8,7 +8,7 @@
 ---
 
 <!-- Section 2: Connect with Me -->
-<div align="left" style="background-color: #4e73df; padding: 30px;">
+<div align="left" style="background-color: #007BFF; padding: 30px;">
   <h2 style="color: white;">🌐 Connect with Me</h2>
   <p>Email: [Your Email](mailto:sagarvyas147@gmail.com)</p>
   <p>LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)</p>
@@ -89,8 +89,6 @@ MasterCard acquired ECS in 2014 [Offical annocement] (https://timesofindia.india
 ---
 ## 🚀 Projects
 
-<details>
-<Project summary style="color: #007BFF;"> Project1
 [Project 1 Application migration](https://github.com/yourusername/project1): Brief description and key technologies.
      
    **Description** :
@@ -98,8 +96,6 @@ MasterCard acquired ECS in 2014 [Offical annocement] (https://timesofindia.india
    **Tech stack** :
    **Achivevements**:
   ![Project 1 Screenshot](project1-screenshot.png)
-
-  </details>
 
 - [Project 2 Infrastructure Transformation](https://github.com/yourusername/project2): Summary and notable accomplishments.
   
